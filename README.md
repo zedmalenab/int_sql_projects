@@ -103,4 +103,4 @@ Older cohorts (2016–2019) are significantly outperforming recent ones in terms
 ## Technical Details
 - **Database:** PostgreSQL
 - **Analysis Tools:** PostgreSQL, PgAdmin4, Dbeaver
-- **Visualization:** ChatGPT
+- **Visualization:** ChatGPT1
