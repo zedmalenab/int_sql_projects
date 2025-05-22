@@ -15,11 +15,11 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 - Assigned customers to High, Mid, and Low-value segments
 - Calculated key metrics: total revenue
 
-🖥️ Query: [cohort_analysis.sql](Scripts\1_cohort_analysis.sql)
+🖥️ Query: [cohort_analysis.sql](Scripts/1_cohort_analysis.sql)
 
 **📈 Visualization:**
 
-![Cohort Analysis](Assets\image1.png)
+![Cohort Analysis](Assets/image1.png)
 
 
 📊 **Key Findings:**
@@ -46,11 +46,11 @@ Older cohorts (2016–2019) are significantly outperforming recent ones in terms
 - Assigned customers to High, Mid, Low-value segments
 - Calculated key metrics: total revenue
 
-🖥️ Query: [customer_segmentation.sql](Scripts\2_customer_segmentation.sql)
+🖥️ Query: [customer_segmentation.sql](Scripts/2_customer_segmentation.sql)
 
 **📈 Visualization:**
 
-![Customer Segmentation Analysis](Assets\image2.png)
+![Customer Segmentation Analysis](Assets/image2.png)
 
 📊 **Key Findings:**
 - **High-Value** segment (25% of customers) drives 66% of revenue ($135.4M)
@@ -68,11 +68,11 @@ Older cohorts (2016–2019) are significantly outperforming recent ones in terms
 - Analyzed last purchase patterns
 - Calculated customer-specific metrics and warning indicators
 
-🖥️ Query: [retention_analysis.sql](Scripts\3_retention_analysis.sql)
+🖥️ Query: [retention_analysis.sql](Scripts/3_retention_analysis.sql)
 
 **📈 Visualization:**
 
-![Cohort-Based LTV Analysis](Assets\image3.png)
+![Cohort-Based LTV Analysis](Assets/image3.png)
 
 📊 **Key Findings:**
 - 100% Churn in Older Cohorts (2015–2022)
